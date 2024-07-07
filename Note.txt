@@ -1,0 +1,2 @@
+NOTE:
+ - Add Your Own Anime csv, Anime_ratins csv and anime_with_synopis file.
